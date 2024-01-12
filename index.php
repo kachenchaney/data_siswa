@@ -29,7 +29,7 @@ $koneksi = new mysqli ("localhost","root","","data_siswa");
 					<thead>
 						<tr>
 							<th>NO</th>
-							<th>NIS</th>
+							<th>ABSEN</th>
 							<th>NAMA SISWA</th>
 							<th>JENIS KELAMIN</th>
 							<th>JURUSAN</th>
