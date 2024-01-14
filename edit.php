@@ -30,7 +30,7 @@ if(isset($_GET['kode'])){
 			<form method="POST" enctype="multipart/form-data">
 
 				<div class="form-group">
-					<label>NIS</label>
+					<label>ABSEN</label>
 					<input type="text" name="nis" class="form-control" value="<?php echo $data_cek['nis']; ?>"
 					 readonly/>
 				</div>
