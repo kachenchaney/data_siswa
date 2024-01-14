@@ -25,7 +25,7 @@ $koneksi = new mysqli ("localhost","root","","data_siswa");
 			<form method="POST" enctype="multipart/form-data">
 
 				<div class="form-group">
-					<label>NIS</label>
+					<label>ABSEN</label>
 					<input type="text" name="nis" class="form-control" required>
 				</div>
 
